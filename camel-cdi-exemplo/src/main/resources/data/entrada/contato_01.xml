@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person user="pedro">
+  <firstName>Pedro</firstName>
+  <lastName>Silva</lastName>
+  <city>São José dos Campos</city>
+  <tipoContato>FAMILIA</tipoContato>
+</person>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person user="william">
+  <firstName>William</firstName>
+  <lastName>Siqueira</lastName>
+  <city>Santo Antônio do Pinhal</city>
+  <tipoContato>OUTROS</tipoContato>
+</person>
