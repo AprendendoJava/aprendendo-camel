@@ -43,7 +43,6 @@
 			<version>2.16.0</version>
 		</dependency>
 
-
 		<dependency>
 			<groupId>javax.enterprise</groupId>
 			<artifactId>cdi-api</artifactId>
@@ -71,9 +70,7 @@
 	</dependencies>
 
 	<build>
-
-		<finalName>camel-twitter</finalName>
-
+	
 		<plugins>
 
 			<plugin>
